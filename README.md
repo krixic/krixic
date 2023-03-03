@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krixic
 - 👀 I’m interested in thinking
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning react and tailwind
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me krix#4200
 
