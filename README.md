@@ -13,5 +13,5 @@ krixic/krixic is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![krixic's GitHub stats](https://github-readme-stats.vercel.app/api?username=krixic&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krixic&theme=vue-dark)
+![krixic's GitHub stats](https://github-readme-stats.vercel.app/api?username=krixic&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krixic&theme=dark)
