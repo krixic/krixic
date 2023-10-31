@@ -2,7 +2,7 @@
 - 👀 I’m interested in thinking
 - 🌱 I’m currently learning react and tailwind
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me krix#4200
+- 📫 How to reach me @krixical
 
 ![status](https://dev.discordprofiles.me/badge/status/366945615059484684?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/366945615059484684)
